@@ -1,4 +1,4 @@
-# 🔥 Siap bro, ini versi **terjemahan penuh** + **rapi** buat ditaruh di `readme.html` atau dokumentasi HTML offline-mu:
+
 
 ---
 
